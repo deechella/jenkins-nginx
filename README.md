@@ -1,1 +1,1 @@
-# jenkins-nginx
+# jenkins/nginx
